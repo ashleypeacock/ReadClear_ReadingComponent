@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ReadClearTextView">
+        <attr name="rcfixationboxColor" format="color" />
+        <attr name="rcboxLineCount" format="integer" />
+        <attr name="rcboxWordsPerLine" format="integer" />
+        <attr name="rctextColor" format="color" />
+        <!-- Opacity in the box -->
+        <attr name="rcOpacity" format="integer" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fixationBoxColorDefault">#FFFFFF</color>
+    <color name="fixationboxTextColorDefault">#000000</color>
+    <color name="backgroundColor">#D3D3D3</color>
+</resources>
